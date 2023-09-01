@@ -17,7 +17,7 @@
 >[link to mystats](https://github.com/sumanthyeruva/my2-yeruva/blob/main/MyStats.md)
 
 # Sports
->Here is the table of sports
+>Here is the table of sports<br>
 |Sport or game|Reason|Hours per Week|
 | :---: | :---: | :---: |
 |Cricket|Improves team management|20hrs|
