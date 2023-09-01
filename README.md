@@ -13,3 +13,6 @@
 - Tea
 - Coffee
 - Manchuria
+
+>[link to mystats](https://github.com/sumanthyeruva/my2-yeruva/blob/main/MyStats.md)
+
