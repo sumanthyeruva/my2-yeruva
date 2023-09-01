@@ -41,6 +41,7 @@
 }
 
 genNew.addEventListener("click", setBg);
-setBg();```
+setBg();
+```
 
 >[link to code](https://css-tricks.com/snippets/javascript/random-hex-color/)
