@@ -16,3 +16,11 @@
 
 >[link to mystats](https://github.com/sumanthyeruva/my2-yeruva/blob/main/MyStats.md)
 
+# Sports
+>Here is the table of sports
+|Sport or game|Reason|Hours per Week|
+| :---: | :---: | :---: |
+|Cricket|Improves team management|20hrs|
+|swimming|Helps to stretch muscles|15hrs|
+|Running|Improves body coordination|10hrs|
+|Jogging|Helps to fitness of the body|20hrs|
