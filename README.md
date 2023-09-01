@@ -33,3 +33,14 @@
 >“I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me.”
 -*Isaac Newton*
 
+# code Fencing
+```const setBg = () => {
+  const randomColor = Math.floor(Math.random()*16777215).toString(16);
+  document.body.style.backgroundColor = "#" + randomColor;
+  color.innerHTML = "#" + randomColor;
+}
+
+genNew.addEventListener("click", setBg);
+setBg();```
+
+>[link to code](https://css-tricks.com/snippets/javascript/random-hex-color/)
